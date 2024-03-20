@@ -87,6 +87,8 @@ These settings are crucial for the proper operation of your Hackintosh system.
 
 ![Tree of entire Opencore EFI](https://preview.redd.it/1k9kkvgyd5pc1.png?width=465&format=png&auto=webp&s=d66c587002d3d38f4e5bebeccd9cf082b3c95b6a)
 ![Screenshot of About This Mac](https://preview.redd.it/e8l21xgyd5pc1.png?width=276&format=png&auto=webp&s=e036eca6688a642311997fce3b3a08e0d53a0293)
+![Screenshot of Ports](https://raw.githubusercontent.com/Collin8000/Thinkpad-T14-Gen-1-Amd-Hackintosh/a29001e16fc0566d92a3051f6cc94fe733e1774a/screenshotofports.png)
+
 
 </details>
 
