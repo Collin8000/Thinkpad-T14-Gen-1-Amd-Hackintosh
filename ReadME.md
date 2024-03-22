@@ -14,7 +14,7 @@
 | **Ethernet Card**     | RTL811                  |
 | **Wifi/BT Card**      | Intel AX200             |
 | **Touchpad Devices**  | Synaptics Glass Touchpad|
-| **BIOS Version**      | Latest                  |
+| **BIOS Version**      | 1.46                  |
 | **Storage**           | RKT303.3 2TB NVME       |
 | **OpenCore Version**  | 0.99                    |
 | **Device**            | Thinkpad T14 Gen 1 AMD  |
